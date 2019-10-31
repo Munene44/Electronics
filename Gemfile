@@ -11,6 +11,9 @@ gem 'sqlite3', '~> 1.4'
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5'
+gem 'spree', '~> 4.0'
+gem 'spree_auth_devise', '~> 4.0'
+gem 'spree_gateway', '~> 3.6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'turbolinks', '~> 5'
